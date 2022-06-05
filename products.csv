@@ -1,0 +1,61 @@
+product,calories,fat,carb,protein
+apple,130,0,34,1
+avocado,50,4,5,3
+banana,110,0,30,1
+cantaloupe,50,0,12,1
+grapefruit,60,0,15,1
+grapes,90,0,23,0
+honeydew melon,50,0,12,1
+kiwifruit,90,1,20,1
+lemon,15,0,5,0
+lime,20,0,7,0
+nectarine,60,0,5,15
+orange,80,0,19,1
+peach,60,0,5,15
+pear,100,0,26,1
+pineapple,50,0,13,1
+plums,70,0,19,1
+strawberries,50,0,11,1
+sweet cherries,100,0,26,1
+tangerine,50,0,13,1
+watermelon,80,0,21,1
+asparagus,20,0,4,2
+bell pepper,25,0,6,1
+broccoli,45,0,5,4
+carrot,30,0,7,1
+cauliflower,25,0,5,2
+celery,15,0,4,0
+cucumber,10,0,2,1
+green beans,20,0,5,1
+green cabbage,25,0,5,1
+green onion,10,0,2,0
+iceberg lettuce,10,0,2,1
+laef lettuce,15,0,2,1
+mushroom,20,0,3,3
+onion,45,0,11,1
+potato,110,0,26,3
+radishes,10,0,3,0
+summer squash,20,0,4,1
+sweet corn,90,2,5,18
+sweet potato,100,0,26,2
+tomato,25,0,5,1
+blue crab,100,1,0,20
+catfish,130,6,0,17
+clams,110,1,5,17
+cod,90,1,0,20
+flounder,100,1,5,19
+haddock,100,1,0,21
+halibut,120,2,0,23
+lobster,80,0,5,17
+ocean perch,110,2,0,21
+orange roughy,80,1,0,16
+oysters,100,4,6,10
+pollock,90,1,0,20
+rainbow trout,140,6,0,20
+rockfish,110,2,0,21
+salmon,200,10,0,24
+scallops,140,1,5,27
+shrimp,100,1,5,21
+swordfish,120,6,0,16
+tilapia,110,2,5,22
+tuna,130,1,5,26
